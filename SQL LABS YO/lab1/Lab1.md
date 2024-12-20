@@ -9,7 +9,7 @@ MySQL - это популярная система управления реля
 sudo dnf update
 ```
 
-!(Pasted image 20241220033500.png)
+![Alt text](Pasted image 20241220033500.png "a title")
 Существует два основных способа установки MySQL на Fedora:
 
 1. Установка из официального репозитория Fedora
