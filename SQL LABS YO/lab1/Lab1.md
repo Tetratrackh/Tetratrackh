@@ -228,3 +228,29 @@ MySQL Workbench — это мощный инструмент для работы
 ![alt](image19.png)
 
 
+Удаление записей:
+
+
+![alt](image21.png)
+
+
+С восстановлением пришлось помучаться, но дела сделано:
+
+
+![alt](image22.png)
+![alt](image23.png)
+
+ВРЕМЯ ДРОПА!!!
+
+
+![alt](image24.png)
+![alt](image25.png)
+
+
+Как хорошо, что есть дамп:
+
+![alt text](image-1.png)
+
+
+# THAT'S ALL, FALKS!!!
+![img](https://i1.sndcdn.com/artworks-000605731930-1ql21b-t1080x1080.jpg)
