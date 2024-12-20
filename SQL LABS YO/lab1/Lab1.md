@@ -9,7 +9,7 @@ MySQL - это популярная система управления реля
 sudo dnf update
 ```
 
-
+!(Pasted image 20241220033500.png)
 Существует два основных способа установки MySQL на Fedora:
 
 1. Установка из официального репозитория Fedora
@@ -21,15 +21,17 @@ sudo dnf update
 sudo dnf install community-mysql-server -y 
 ```
 
-
+![[Pasted image 20241220033543.png]]
 После установки необходимо запустить и включить сервис MySQL[
 ```bash
 sudo systemctl start mysqld
 sudo systemctl enable mysqld
 ```
-
+![[Pasted image 20241220033609.png]]
+![[Pasted image 20241220033646.png]]
 Для повышения безопасности рекомендуется выполнить скрипт mysql_secure_installation, который поможет настроить базовые параметры безопасности[2][4].
-
+![[Pasted image 20241220033710.png]]
+![[Pasted image 20241220033945.png]]
 Запуск MySQL в Fedora
 
 После безопасной установки (ШАГ-3) мы создали пароль для пользователя root. Теперь мы войдем на сервер MySQL с привилегиями root, используя команду:
