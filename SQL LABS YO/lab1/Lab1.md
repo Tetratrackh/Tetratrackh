@@ -22,8 +22,8 @@ sudo dnf update
 sudo dnf install community-mysql-server -y 
 ```
 
-[alt](20241220033543.png)
-После установки необходимо запустить и включить сервис MySQL[
+![alt](20241220033543.png)
+После установки необходимо запустить и включить сервис MySQL
 ```bash
 sudo systemctl start mysqld
 sudo systemctl enable mysqld
