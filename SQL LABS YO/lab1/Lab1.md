@@ -240,7 +240,7 @@ MySQL Workbench — это мощный инструмент для работы
 ![alt](image22.png)
 ![alt](image23.png)
 
-ВРЕМЯ ДРОПА!!!
+Сегодня дроп
 
 
 ![alt](image24.png)
